@@ -53,8 +53,8 @@ Sigue estos pasos para correr el proyecto en tu máquina local:
 Si estás interesado en aprender más sobre este proyecto o tienes alguna pregunta, no dudes en contactarme:
 
 - **Email**: fgonzalezurriola@gmail.com
-- **LinkedIn**: [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/francisco-gonz%C3%A1lez-urriola-75915b325/)
-- **GitHub**: [github.com/tu-usuario](https://github.com/fgonzalezurriola)
+- **LinkedIn**: [linkedin.com/francisco-gonzález-urriola](https://www.linkedin.com/in/francisco-gonz%C3%A1lez-urriola-75915b325/)
+- **GitHub**: [github.com/fgonzalezurriola](https://github.com/fgonzalezurriola)
 
 ---
 
