@@ -1,75 +1,63 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
 
-¡Hola, Platzinauta!
+---
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+# Curso de Introducción a React.js - Proyecto Final
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+¡Hola y bienvenid@!
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+Este repositorio contiene el código del proyecto final que desarrollé durante el [Curso de Introducción a React.js](https://platzi.com/reactjs) en Platzi. Aquí podrás explorar cómo apliqué los conceptos clave de React para crear una aplicación web interactiva.
 
-## Getting Started with Create React App
+## Descripción del Proyecto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una aplicación web construida con React, que sigue las mejores prácticas y patrones modernos de desarrollo. A lo largo del curso, implementé diversas funcionalidades para demostrar el poder de React, incluyendo:
 
-## Available Scripts
+- **Componentes Funcionales y de Clase**: Uso de componentes reutilizables para crear una interfaz de usuario dinámica y mantenible.
+- **Estado y Props**: Gestión del estado interno y flujo de datos entre componentes.
+- **Hooks**: Implementación de Hooks como `useState` y `useEffect` para manejar el ciclo de vida de los componentes y las actualizaciones de estado.
+- **React Router**: Navegación entre diferentes vistas de la aplicación.
+- **Estilización Modular**: Aplicación de estilos CSS y CSS-in-JS para una apariencia moderna y coherente.
 
-In the project directory, you can run:
+## Demo y Despliegue
 
-### `npm start`
+Actualmente está desplegada en [GitHub Pages](https://fgonzalezurriola.github.io/curso-react-intro/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Instalación y Configuración
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Sigue estos pasos para correr el proyecto en tu máquina local:
 
-### `npm run build`
+1. **Clona este repositorio**:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Instala las dependencias**:
+   ```bash
+   npm install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Ejecuta la aplicación en modo desarrollo**:
+   ```bash
+   npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   La aplicación estará disponible en [http://localhost:3000](http://localhost:3000).
 
-### `npm run eject`
+## Tecnologías Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **React.js** - Biblioteca para la creación de interfaces de usuario.
+- **CSS** - Estilización de la interfaz.
+- **HTML** - Para el Marcado de la página
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contacto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Si estás interesado en aprender más sobre este proyecto o tienes alguna pregunta, no dudes en contactarme:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Email**: tu-email@example.com
+- **LinkedIn**: [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/francisco-gonz%C3%A1lez-urriola-75915b325/)
+- **GitHub**: [github.com/tu-usuario](https://github.com/fgonzalezurriola)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Espero que encuentres este proyecto interesante. ¡Gracias por visitarlo!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
